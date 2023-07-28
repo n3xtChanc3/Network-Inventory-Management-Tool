@@ -22,7 +22,7 @@ This Python application leverages Nmap to scan your local network and automatica
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/n3xtchanc3/network-inventory-management.git
+git clone git@github.com:n3xtChanc3/Network-Inventory-Management-Tool.git
 cd network-inventory-management
 
     Install the required Python libraries:
